@@ -1,5 +1,6 @@
 # ZyzFE-blog
-Welcome to ZyzFE's blog. Mainly say someting about FE
+
+个人的博客文章，欢迎阅读，如果对您有帮助请帮忙点个star。
 
 ## JS系列
 
@@ -8,6 +9,8 @@ Welcome to ZyzFE's blog. Mainly say someting about FE
 [详解JS字符串截取slice&substring&substr的区别](https://github.com/Drowned-fish/ZyzFE-blog/issues/2)
 
 [奇怪的事件执行顺序](https://github.com/Drowned-fish/ZyzFE-blog/issues/3)
+
+[IntersectionObserver API实践——视频滑入滑出自动播放和暂停](https://github.com/Drowned-fish/ZyzFE-blog/issues/5)
 
 ## React系列
 
