@@ -15,3 +15,5 @@
 ## React系列
 
 [如何安全的转化html字符串成一个React组件？](https://github.com/Drowned-fish/ZyzFE-blog/issues/4)
+
+[](https://github.com/Drowned-fish/ZyzFE-blog/issues/6)
